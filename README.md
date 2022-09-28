@@ -5,5 +5,5 @@ HOW TO INSTALL:
 
 step 1: 
 
-git clone
 ```
+git clone
