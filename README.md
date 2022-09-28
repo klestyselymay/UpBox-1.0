@@ -14,7 +14,7 @@ HOW TO INSTALL:
 
 step 1: 
 ```
-git clone
+git clone https://github.com/klestyselymay/UpBox-1.0.git
 ```
 step 2:
 ```
