@@ -17,9 +17,17 @@ HOW TO USE:
 python UpBox-1.0.py
 ```
 
-to message just type and hit enter
+to message 
+```
+hello world!
+```
 
 to enter a commnad use
 ```
 /
+```
+
+first command:
+```
+/test
 ```
