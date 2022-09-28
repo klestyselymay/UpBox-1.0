@@ -16,3 +16,10 @@ HOW TO USE:
 ```
 python UpBox-1.0.py
 ```
+
+to message just type and hit enter
+
+to enter a commnad use
+```
+/
+```
