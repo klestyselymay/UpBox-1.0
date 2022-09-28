@@ -11,3 +11,8 @@ step 2:
 ```
 pip install -r requirements.txt
 ```
+
+HOW TO USE:
+```
+python UpBox-1.0.py
+```
