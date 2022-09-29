@@ -6,7 +6,7 @@ you need windows but i will release a linux verision.
 
 python-3.10: https://www.python.org/downloads/release/python-3100/
 
-UpBox-srv-1.0: https://github.com/klestyselymay/UpBox-srv-1.0
+host a server: https://github.com/klestyselymay/UpBox-srv-1.0
 
 
 
