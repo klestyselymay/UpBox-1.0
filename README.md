@@ -33,7 +33,7 @@ hello world!
 
 to enter a commnad use
 ```
-/
+/commandname
 ```
 
 first command:
