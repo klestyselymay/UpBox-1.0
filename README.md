@@ -16,7 +16,12 @@ step 1:
 ```
 git clone https://github.com/klestyselymay/UpBox-1.0.git
 ```
+
 step 2:
+```
+cd windows-UpBox-1.0
+
+step 3:
 ```
 pip install -r requirements.txt
 ```
