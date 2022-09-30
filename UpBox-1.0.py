@@ -66,7 +66,8 @@ def join_srv(name1, address1):
                 print(Fore.RED)
 
             if opt2 in message:
-                not1 = True
+                epr = message.replace(opt2, "")
+                print(epr)
 
             elif opt1 in message:
                 cmd = str(message)
@@ -94,15 +95,16 @@ def join_srv(name1, address1):
     t.start()
 
     while True:
-        if settings['colors'][0]['color'] == 'green':
+        if settings['colors'][0]['fcolor'] == 'green':
             print(Fore.GREEN)
 
-        elif settings['colors'][0]['color'] == 'blue':
+        elif settings['colors'][0]['fcolor'] == 'blue':
             print(Fore.BLUE)
 
-        elif settings['colors'][0]['color'] == 'red':
+        elif settings['colors'][0]['fcolor'] == 'red':
             print(Fore.RED)
-        to_send =  input()
+        to_send = input()
+
         if to_send.lower() == 'q':
             break
 
